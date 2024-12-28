@@ -1,5 +1,5 @@
 #Unordered datatype
-
+#mutable
 #you cannot define empty set using literals
 emptySet=set()
 sampleSet={1,'dayche',123,'abc',3.86}
