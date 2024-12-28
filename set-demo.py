@@ -12,3 +12,11 @@ power={1,4,9,16,25,36,49}
 print(len(odd))
 print(odd.intersection(power))
 print(odd.union(power))
+
+print('='*40)
+print(odd.intersection_update(power))
+print(odd)
+power_frozen=frozenset(power)
+
+
+
