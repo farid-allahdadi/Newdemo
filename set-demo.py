@@ -7,6 +7,7 @@ for i in range(10):
 
     print(sampleSet)
 print('='*40)
+print('+'*40)
 odd=set(range(1,50,2))
 power={1,4,9,16,25,36,49}
 print(len(odd))
